@@ -1,2 +1,2 @@
-# Calculator-basic.github.io
+# Calculator-basic
 Basic Calculator
